@@ -1,15 +1,14 @@
-# initializing-webpack
+# Initializing Webpack
 
-how to use webpack for first time
+How to use webpack for first time
 
 ## Install dependencies
-
+```
 npm install
+```
 
-### Run 
+### Run development mode
 
+```
 npm run dev 
-
-
-* **Faridho** - [Medium](https://medium.com/@faridho)
-
+```
