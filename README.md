@@ -1,6 +1,6 @@
 # Initializing Webpack
 
-How to use webpack for first time
+How to use webpack for first time.
 
 ## Install dependencies
 ```
